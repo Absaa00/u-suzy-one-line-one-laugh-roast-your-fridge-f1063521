@@ -1,0 +1,8 @@
+# Fridge-roast build: keep the repo to source only.
+# Local run artefacts (grader output dir, bytecode caches, scratch notes).
+/output/
+__pycache__/
+*.pyc
+*.pyo
+.bundle-work/
+fridge-scratch.local.md
